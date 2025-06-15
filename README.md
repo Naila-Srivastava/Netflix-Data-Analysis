@@ -1,4 +1,4 @@
-# 📺 Netflix Data Analysis Project
+# Netflix Data Analysis Project
 
 Welcome to my Netflix Data Analysis project! This project dives into the Netflix catalogue to uncover content trends, top genres, and viewer-friendly insights using Python, pandas and visualization tools like seaborn and matplotlib.
 
@@ -68,7 +68,7 @@ This interactive recommender brings a personalized touch to the project, blendin
 
 ## 📁 Project Structure
 ```plaintext
-netflix-analysis/
+Netflix-Data-Analysis/
 │
 ├── netflix1.csv                           # Raw dataset
 ├── .gitignore                             # Required packages and libraries
