@@ -25,8 +25,8 @@ Due to size/privacy, the dataset isn't included in this repo.
 
 ## 💻 How to Run
 1. Clone the repo  
-2. Install dependencies: 'pip install -r requirements.txt'  
-3. Open the notebook: 'netflix_analysis.ipynb' 
+2. Install dependencies: `pip install -r requirements.txt`  
+3. Open the notebook: `netflix_analysis.ipynb` 
 4. Run all cells and enjoy the visuals + ML magic!
 
 ## 📊 Key Analysis
