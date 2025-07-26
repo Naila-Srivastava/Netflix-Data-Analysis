@@ -13,7 +13,6 @@ To explore and analyze Netflix's dataset through:
 ## 🔧 Tools & Technologies
 - Python (Pandas, NumPy, scikit-learn)
 - Matplotlib & Seaborn
-- Tableau Public (for interactive dashboards)
 - Jupyter Notebook
 - GitHub (for version-control)
 
@@ -41,10 +40,8 @@ Due to size/privacy, the dataset isn't included in this repo.
 - Bar chart: Content type distribution
 - Line plot: Content trends over time
 - Pie chart: Rating breakdown
-- World map (via Tableau): Country-wise content view
 
 ## 🌍 Advanced Visuals
-- Interactive Tableau dashboards
 - Country-based high-rated content map
 - Rating-wise pie chart
 
