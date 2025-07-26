@@ -20,7 +20,7 @@ To explore and analyze Netflix's dataset through:
 This project uses Netflix data for EDA and ML.  
 Due to size/privacy, the dataset isn't included in this repo.    
 
-➡️ [Download dataset here] (https://www.kaggle.com/datasets/nailasrivastava/netflix-data-analysis-datasets)
+➡️ [Download dataset here](https://www.kaggle.com/datasets/nailasrivastava/netflix-data-analysis-datasets)
 
 ## 💻 How to Run
 1. Clone the repo  
