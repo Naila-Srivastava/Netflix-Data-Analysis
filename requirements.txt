@@ -1,10 +1,7 @@
-# Required packages to run the Netflix data analysis 👩🏻‍💻
-
-- jupyter
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- plotly
-- scikit learn
-- geopandas
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit learn
+geopandas
